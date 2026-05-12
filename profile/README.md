@@ -3,7 +3,7 @@ Elyxir is the all-in-one solution for managing FiveM Discord Servers. Our servic
 
 ## Tech Stack
 The service consists of many components, which are all listed below:
-- **Core Infrastructure (bot, payment api)**: Node.js, MongoDB, Express
-- **Internal API**: Node.js, Fastify
-- **Transcript Server:** Node.js, Fastify
-- **Site: (unreleased)** Node.js, Next.js
+- **Bot Service**: Node.js, MongoDB, Express
+- **API and Payments Service**: Node.js, Fastify, MongoDB
+- **Transcript Service:** Node.js, Fastify
+- **Site:** Node.js, Next.js
